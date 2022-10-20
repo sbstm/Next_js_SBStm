@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Raleway', sans-serif;
+}
+
+.custom-img {
+  background-image: url('https://2.bp.blogspot.com/-9vCtNNDwEN0/XFcxezznvHI/AAAAAAAACCQ/_Dwvkp60ZdMd2eMV9wEcVtM1mn172NpbQCKgBGAs/w0/milky-way-night-sky-stars-scenery-nature-mountain-67-4K.jpg')
+}
