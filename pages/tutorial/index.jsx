@@ -6,8 +6,8 @@ export default function index() {
   
   return (
     <>
-      
       <Greeting heading="ISI paramamerter di atas" />
+      <input type="button" value="" />
     </>
   )
 }

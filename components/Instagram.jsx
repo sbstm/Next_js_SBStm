@@ -7,7 +7,7 @@ import InstagramImg from "./InstagramImg";
 
 const Instagram = () => {
   return (
-    <div className="max-w-[1240px] mx-auto text-center py-24">
+    <div id="gallery" className="max-w-[1240px] mx-auto text-center py-24">
       <p className="text-2xl font-bold">Follow me on Instagram</p>
       <p className="pb-4">@satriabimasakti_12</p>
       <div className="grid  md:grid-cols-1  grid-cols-1 lg:grid-cols-3 gap-2 p-4">
